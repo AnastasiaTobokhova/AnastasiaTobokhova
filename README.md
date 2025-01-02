@@ -6,7 +6,6 @@
 
 ## 🎓 Моя степень
 - **Бакалав** в области финансов
-- **Магистр** в области изящных искусств
 
 ## 🔥 Мои Стековые Навыки
 - **Frontend**: HTML5, CSS3, JavaScript, React, Vue.js
@@ -57,7 +56,7 @@
 Hi! I'm Anastasia, an aspiring full-stack developer with experience in web development and a passion for Data Science. My goal is to create innovative solutions and work with cutting-edge technologies in machine learning and big data processing.
 
 ## 🎓 My Degree
-- **Master's Degree** in [Your Specialization].
+- **Bachelor's Degree** in Finance.
 
 ## 🔥 My Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript, React, Vue.js
