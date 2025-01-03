@@ -1,14 +1,13 @@
-# 👩‍💻 Анастасия — Aspiring Full-stack Developer | Data Science Enthusiast | NLP Explorer
+# 👩‍💻 Анастасия — Data Science Enthusiast | NLP Explorer
 
 ![Profile Banner](https://www.example.com/banner-image.jpg) 
 
-Привет! Я Анастасия, разработчик, стремящийся стать full-stack профессионалом, с опытом работы в веб-разработке и страстью к Data Science. Моя цель — создавать инновационные решения и работать с передовыми технологиями в области машинного обучения и обработки больших данных.
+Привет! Я Анастасия, разработчик с опытом работы в веб-разработке и страстью к Data Science. Моя цель — создавать инновационные решения и работать с передовыми технологиями в области машинного обучения и обработки больших данных.
 
 ## 🎓 Моя степень
 - **Бакалав** в области финансов
 
 ## 🔥 Мои Стековые Навыки
-- **Frontend**: HTML5, CSS3, JavaScript, React, Vue.js
 - **Backend**: Node.js, Express, Python, Django, Flask
 - **Базы данных**: PostgreSQL, MongoDB, MySQL
 - **Инструменты и технологии**: Git, Docker, AWS, Kubernetes
@@ -24,7 +23,6 @@
 
 ## 🌱 Мои цели
 - 📚 Продолжать развиваться в **Machine Learning** и **NLP**.
-- 🚀 Постоянно работать над улучшением навыков в **full-stack разработке**.
 - 🌍 Составить портфолио проектов, которое будет вдохновлять и помогать другим разработчикам.
 
 ## 📈 Прогресс
@@ -39,9 +37,9 @@
 - 📱 [Telegram](https://t.me/anastasssssssia)
 
 ## 📖 Образование и опыт
-- 🎓 **Магистр** в области финансов.
+- 🎓 **Бакалавр** в области финансов.
 - 👨‍💻 **3 года опыта работы в дизайне**, что помогает мне создавать проекты с высокой юзабилити.
-- 🖥 Стремлюсь стать **Full-stack разработчиком** с опытом работы в крупных проектах.
+- 🖥 Стремлюсь стать **Python разработчиком** с опытом работы в крупных проектах.
 - 📊 **Изучаю Data Science и Machine Learning**, чтобы углубить знания и работать над продуктами в этой области.
 
 ## 💬 Цитата
@@ -49,17 +47,16 @@
 
 ---
 
-# 👩‍💻 Anastasia — Aspiring Full-stack Developer | Data Science Enthusiast | NLP Explorer
+# 👩‍💻 Anastasia — Data Science Enthusiast | NLP Explorer
 
 ![Profile Banner](https://www.example.com/banner-image.jpg) <!-- Replace with your own image link -->
 
-Hi! I'm Anastasia, an aspiring full-stack developer with experience in web development and a passion for Data Science. My goal is to create innovative solutions and work with cutting-edge technologies in machine learning and big data processing.
+Hi! I'm Anastasia, an aspiring developer with experience in web development and a passion for Data Science. My goal is to create innovative solutions and work with cutting-edge technologies in machine learning and big data processing.
 
 ## 🎓 My Degree
 - **Bachelor's Degree** in Finance.
 
 ## 🔥 My Tech Stack
-- **Frontend**: HTML5, CSS3, JavaScript, React, Vue.js
 - **Backend**: Node.js, Express, Python, Django, Flask
 - **Databases**: PostgreSQL, MongoDB, MySQL
 - **Tools & Technologies**: Git, Docker, AWS, Kubernetes
@@ -75,7 +72,7 @@ I am actively working on my thesis, comparing methods for processing and storing
 
 ## 🌱 My Goals
 - 📚 Continue growing in **Machine Learning** and **NLP**.
-- 🚀 Consistently work on improving **full-stack development** skills.
+- 🚀 Consistently work on improving **python development** skills.
 - 🌍 Build a portfolio of projects that will inspire and help other developers.
 
 ## 📈 Progress
@@ -92,7 +89,7 @@ I am actively working on my thesis, comparing methods for processing and storing
 ## 📖 Education & Experience
 - 🎓 **Bachelor's Degree** in Finance.
 - 👨‍💻 **3 years of design experience**, helping me create highly usable projects.
-- 🖥 Aspiring **Full-stack Developer** with experience working on large-scale projects.
+- 🖥 Aspiring **Python Developer** with experience working on large-scale projects.
 - 📊 **Studying Data Science and Machine Learning** to deepen my knowledge and work on products in this field.
 
 ## 💬 Quote
