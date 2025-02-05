@@ -9,7 +9,7 @@ Hey there! I'm Anastasia, a DevOps enthusiast with **9 months of hands-on experi
 - 🚀 **DevOps & Automation** – CI/CD, Infrastructure as Code (IaC)
 - 🐳 **Containerization** – Docker, Kubernetes
 - ⚡ **Configuration Management** – Ansible, Terraform
-- 📊 **Monitoring & Observability** – Prometheus, Grafana, Loki
+- 📊 **Monitoring & Observability** – Prometheus, Grafana, ELK
 - 🛠 **Cloud & Infrastructure** – AWS, GCP, Linux
 - 🚀 **Scripting & Tooling** – Bash, YAML
 
