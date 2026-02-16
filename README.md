@@ -1,7 +1,7 @@
 # 🚀 Anastasia Tobokhova
 
 ## 👩‍💻 About Me
-Hey there! I'm Anastasia, a DevOps enthusiast with **1 year of hands-on experience** in automating, scaling, and optimizing infrastructure. Passionate about **efficiency, automation, and observability**, I'm on a mission to make deployments smoother and systems more resilient. 
+Hey there! I'm Anastasia, a DevOps enthusiast with **2 year of hands-on experience** in automating, scaling, and optimizing infrastructure. Passionate about **efficiency, automation, and observability**, I'm on a mission to make deployments smoother and systems more resilient. 
 
 ---
 ## 🔧 Tech Stack & Skills
